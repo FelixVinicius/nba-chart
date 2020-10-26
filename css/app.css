@@ -1,0 +1,15 @@
+.win {
+  background-color: green;
+}
+.loss {
+  background-color: red;
+}
+
+div {
+  text-align: center;
+}
+h1 {
+  border-style: groove;
+  border-width: 20px 60px;
+  border-color: blue red;
+}
